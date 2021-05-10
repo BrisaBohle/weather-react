@@ -21,7 +21,7 @@ export default function App() {
         </div>
         <small>
           <a
-            href="https://github.com/BrisaBohle/Weather_app_plus"
+            href="https://github.com/BrisaBohle/weather-react"
             target="_blank"
             rel="noopener noreferrer"
           >
