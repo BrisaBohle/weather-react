@@ -1,0 +1,11 @@
+.weather-forecast-date {
+  color: #8e7f7f;
+  text-align: center;
+  font-size: 13px;
+  display: block;
+  margin: 0 auto;
+}
+.week-icon {
+  color: white;
+  font-size: 25px;
+}

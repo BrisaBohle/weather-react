@@ -1,0 +1,21 @@
+body {
+  background-color: #393e46;
+  margin-top: 20px;
+  font-family: "Baloo 2", cursive;
+}
+
+small {
+  color: #9ecca4;
+  display: block;
+  text-align: center;
+  margin-top: 20px;
+}
+a {
+  color: #fd3a69;
+}
+
+.background-card {
+  width: 430px;
+  height: 680px;
+  background-image: linear-gradient(to top, #ff8d0038 0%, #ace1f9 100%);
+}
